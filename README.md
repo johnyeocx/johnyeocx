@@ -2,7 +2,7 @@
 
 ### About Me
 1. I like algorithms, especially graphs related ones. Unravelling something as complex as a graph is truly fascinating
-2. I specialise in app development and have been implementing full stack server applications for the past 2 year
+2. I specialise in app development and have been implementing full stack server applications for the past year and a bit
 3. Programming languages should be statically typed
 
 ### My Current Project
