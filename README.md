@@ -9,8 +9,8 @@
 Currently I am working on a social media mobile app revolving around the idea of events / outings / plans. The technologies used are GraphQL, MongoDB, Golang on the back end and React Native on the front end. Check out the **bool** repo to view the source code for this project so far.
 
 ### Connect with me
-LinkedIn: https://www.linkedin.com/in/john-yeo-048a001a9/
-Instagram: www.instagram.com/johnyeocx
+- LinkedIn: https://www.linkedin.com/in/john-yeo-048a001a9/
+- Instagram: www.instagram.com/johnyeocx
 
 <!--
 **johnyeocx/johnyeocx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
