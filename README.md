@@ -1,4 +1,4 @@
-## Hi, I'm John (Singapore, 20)
+## Hi, I'm John (Singapore, 21)
 
 ### About Me
 1. I like algorithms, especially graphs related ones. Unravelling something as complex as a graph is truly fascinating
