@@ -5,9 +5,6 @@
 2. I specialise in app development and have been web and mobile apps for the last 5 years
 3. Programming languages should be statically typed
 
-### My Current Project
-Currently I am working on a social media mobile app revolving around the idea of events / outings / plans. The technologies used are GraphQL, MongoDB, Golang on the back end and React Native on the front end. Check out the **bool** repo to view the source code for this project so far.
-
 ### Connect with me
 - LinkedIn: https://www.linkedin.com/in/johnyeocx/
 - Instagram: www.instagram.com/johnyeocx
